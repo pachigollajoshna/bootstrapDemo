@@ -1,13 +1,18 @@
-
+#icon img{
+    visibility: hidden;  
+}
 
 
 /* // Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) { 
+@media (max-width: 750px) { 
     p{
         background-color:aqua;
     }
-
-    
+    #icon img{
+        visibility: visible;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }  
  }
 
 /* // Medium devices (tablets, 768px and up) */
