@@ -1,0 +1,7442 @@
+[
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 51,
+   "ExpectedRevenue": 220400,
+   "ProjectedWins": 51,
+   "ProjectedRevenue": 220400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 51,
+   "ExpectedRevenue": 216200,
+   "ProjectedWins": 51,
+   "ProjectedRevenue": 216200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 51,
+   "ExpectedRevenue": 212100,
+   "ProjectedWins": 51,
+   "ProjectedRevenue": 212100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 50,
+   "ExpectedRevenue": 208000,
+   "ProjectedWins": 50,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 49,
+   "ExpectedRevenue": 208000,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 49,
+   "ExpectedRevenue": 208000,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 48,
+   "ExpectedRevenue": 208000,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 47,
+   "ExpectedRevenue": 208000,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 46,
+   "ExpectedRevenue": 199400,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 199400,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 199400,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 199400,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 199400,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 199400,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 199400,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 199420,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 199420
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 194500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 184600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 174300,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 25,
+   "ExpectedRevenue": 132000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 20,
+   "ExpectedRevenue": 110800,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 17,
+   "ExpectedRevenue": 99700,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 13,
+   "ExpectedRevenue": 76200,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 199400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 52700,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 194100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 3,
+   "ExpectedRevenue": 6500,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 194100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 2,
+   "ExpectedRevenue": 6500,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 194100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6500,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 194100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6500,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 188800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6500,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 188800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6500,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 178300
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 219600,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 219600,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 219600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 219600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 219600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 219600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 219600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 209200,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 209200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 209200,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 209200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 204000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 204000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 194100,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 194100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 194100,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 194100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 194100,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 194100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 189000,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 189000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 189000,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 189000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 189095,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 189095
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 178800,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 189000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 168800,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 189000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 158800,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 183700
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 149100,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 178400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 26,
+   "ExpectedRevenue": 124200,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 173100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 24,
+   "ExpectedRevenue": 105000,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 162200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 22,
+   "ExpectedRevenue": 91800,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 162200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 20,
+   "ExpectedRevenue": 75100,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 162200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 16,
+   "ExpectedRevenue": 67500,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 162200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 13,
+   "ExpectedRevenue": 50600,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 162200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 42800,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 156900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 33200,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 151800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 5,
+   "ExpectedRevenue": 16600,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 146900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 4,
+   "ExpectedRevenue": 6600,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 142100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6600,
+   "ProjectedWins": 29,
+   "ProjectedRevenue": 137300
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 168300,
+   "ProjectedWins": 29,
+   "ProjectedRevenue": 168300
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 168300,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 168300
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 168300,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 168300
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 174000,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 174000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 174000,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 174000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 174000,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 174000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 186100,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 186100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 186100,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 186100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 192200,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 192200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 192200,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 192200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 192200,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 192200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 192200,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 192200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 198100,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 198100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 198100,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 198100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 198100,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 198100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 198120,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 198120
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 192600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 198100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 170500,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 198100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 149800,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 198100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 130400,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 198100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 27,
+   "ExpectedRevenue": 104300,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 198100
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 24,
+   "ExpectedRevenue": 96500,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 203600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 21,
+   "ExpectedRevenue": 88400,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 203600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 17,
+   "ExpectedRevenue": 75700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 203600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 13,
+   "ExpectedRevenue": 66700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 203600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 46100,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 203600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 35800,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 209200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 4,
+   "ExpectedRevenue": 31300,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 209200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 3,
+   "ExpectedRevenue": 23400,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 209200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 23400,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 209200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 23400,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 209200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 159600,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 159600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 159600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 159600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 164200,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 164200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 168900,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 168900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 173600,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 173600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 173600,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 173600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 178300,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 178300
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 178300,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 178300
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 183000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 183000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 187700,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 187700
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 192600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 192600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 192600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 192600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 197600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 197600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 202700,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 202700
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 202700,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 202700
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 207954,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 207954
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 192300,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 207900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 171500,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 212900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 166700,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 212900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 152400,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 212900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 121000,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 212900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 109200,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 217900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 24,
+   "ExpectedRevenue": 94100,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 217900
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 20,
+   "ExpectedRevenue": 74400,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 222800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 18,
+   "ExpectedRevenue": 63200,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 227800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 14,
+   "ExpectedRevenue": 45600,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 227800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 10,
+   "ExpectedRevenue": 42300,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 227800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 29600,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 232500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 7,
+   "ExpectedRevenue": 18500,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 237200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 6,
+   "ExpectedRevenue": 7900,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 237200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Retail",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7900,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 237200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 180600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 180600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 180600,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 180600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 180600,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 180600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 180600,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 180600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 185500,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 185500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 185500,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 185500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 185500,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 185500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 185500,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 185500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 190600,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 190600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 190600,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 190600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 195500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 195500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 200400,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 200400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 200400,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 200400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 200400,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 200400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 200400,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 200400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 200458,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 200458
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 195500,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 200400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 185200,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 200400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 174900,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 200400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 28,
+   "ExpectedRevenue": 163900,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 200400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 22,
+   "ExpectedRevenue": 117000,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 205000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 20,
+   "ExpectedRevenue": 95700,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 205000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 17,
+   "ExpectedRevenue": 86100,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 214500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 15,
+   "ExpectedRevenue": 65800,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 214500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 12,
+   "ExpectedRevenue": 43800,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 214500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 7,
+   "ExpectedRevenue": 18200,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 214500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 3,
+   "ExpectedRevenue": 7800,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 214500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 2600,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 214500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 2600,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 214500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 2600,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 214500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 2600,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 214500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 27,
+   "ExpectedRevenue": 177600,
+   "ProjectedWins": 27,
+   "ProjectedRevenue": 177600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 28,
+   "ExpectedRevenue": 177600,
+   "ProjectedWins": 28,
+   "ProjectedRevenue": 177600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 28,
+   "ExpectedRevenue": 177600,
+   "ProjectedWins": 28,
+   "ProjectedRevenue": 177600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 28,
+   "ExpectedRevenue": 177600,
+   "ProjectedWins": 28,
+   "ProjectedRevenue": 177600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 28,
+   "ExpectedRevenue": 177600,
+   "ProjectedWins": 28,
+   "ProjectedRevenue": 177600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 177600,
+   "ProjectedWins": 29,
+   "ProjectedRevenue": 177600
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 183800,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 183800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 190000,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 190000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 196200,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 196200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 196200,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 196200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 196200,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 196200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 196200,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 196200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 196200,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 196200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 196200,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 196200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 196200,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 196200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 201816,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 201816
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 190600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 201800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 173700,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 201800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 28,
+   "ExpectedRevenue": 167900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 201800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 24,
+   "ExpectedRevenue": 149900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 207200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 18,
+   "ExpectedRevenue": 112400,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 212800
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 13,
+   "ExpectedRevenue": 81100,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 218500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 10,
+   "ExpectedRevenue": 56100,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 218500
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 28000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 230000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 5,
+   "ExpectedRevenue": 17500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 236000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 3500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 242000
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 3500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 248200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 3500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 248200
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 3500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 254400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 3500,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 254400
+ },
+ {
+   "Region": "Northeast",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 3500,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 254400
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 46,
+   "ExpectedRevenue": 219700,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 219700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 45,
+   "ExpectedRevenue": 219700,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 219700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 219700,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 219700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 219700,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 219700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 219700,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 219700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 219700,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 219700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 219700,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 219700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 210200,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 210200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 210200,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 210200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 210200,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 210200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 201100,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 201100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 201100,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 201100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 201100,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 201100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 201100,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 201100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 201100,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 201100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 201175,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 201175
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 196400,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 201100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 186800,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 201100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 168100,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 196300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 150800,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 191500
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 129800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 186800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 26,
+   "ExpectedRevenue": 116800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 186800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 21,
+   "ExpectedRevenue": 103300,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 186800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 19,
+   "ExpectedRevenue": 78700,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 186800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 14,
+   "ExpectedRevenue": 62100,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 182000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 39900,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 182000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 26600,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 182000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 4,
+   "ExpectedRevenue": 19900,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 182000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 4900,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 182000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 4900,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 182000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 4900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 177200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 162800,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 162800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 162800,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 162800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 162800,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 162800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 162800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 162800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 162800,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 162800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 162800,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 162800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 162800,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 162800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 166800,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 166800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 170900,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 170900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 175000,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 175000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 175000,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 175000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 179200,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 179200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 179200,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 179200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 179200,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 179200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 183500,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 183500
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 187912,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 187912
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 174800,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 187900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 162300,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 187900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 146000,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 187900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 138500,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 187900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 123500,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 187900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 27,
+   "ExpectedRevenue": 114900,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 187900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 24,
+   "ExpectedRevenue": 102100,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 192000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 19,
+   "ExpectedRevenue": 89300,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 192000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 15,
+   "ExpectedRevenue": 70500,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 42300,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 204200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 6,
+   "ExpectedRevenue": 28200,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 204200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 2,
+   "ExpectedRevenue": 23500,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 208300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 23500,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 208300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 23500,
+   "ProjectedWins": 50,
+   "ProjectedRevenue": 208300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Software/Hardware",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 23500,
+   "ProjectedWins": 50,
+   "ProjectedRevenue": 208300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 171800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 171800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 176100,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 176100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 180600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 180600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 180600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 180600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 180600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 180600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 180600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 180600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 180600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 180600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 185200,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 185200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 189900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 189900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 189900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 189900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 189900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 189900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 189900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 189900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 189900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 189900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 194700,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 194700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 199600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 199600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 199633,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 199633
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 189800,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 199600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 170300,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 199600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 161300,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 199600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 156600,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 199600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 27,
+   "ExpectedRevenue": 127200,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 199600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 25,
+   "ExpectedRevenue": 108300,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 199600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 22,
+   "ExpectedRevenue": 99600,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 204000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 19,
+   "ExpectedRevenue": 86000,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 208500
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 14,
+   "ExpectedRevenue": 76900,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 208500
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 11,
+   "ExpectedRevenue": 43900,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 217500
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 31900,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 222100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 4,
+   "ExpectedRevenue": 15900,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 222100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 11900,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 226800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 11900,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 226800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 11900,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 226800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 183200,
+   "ProjectedWins": 29,
+   "ProjectedRevenue": 183200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 189600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 189600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 189600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 189600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 189600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 189600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 189600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 189600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 195800,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 195800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 195800,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 195800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 201800,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 201800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 201800,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 201800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 207800,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 207800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 207800,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 207800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 207879,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 207879
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 190000,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 207800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 184000,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 207800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 171700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 213700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 26,
+   "ExpectedRevenue": 165700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 213700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 18,
+   "ExpectedRevenue": 127400,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 16,
+   "ExpectedRevenue": 99000,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 12,
+   "ExpectedRevenue": 86600,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 7,
+   "ExpectedRevenue": 64900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 3,
+   "ExpectedRevenue": 27800,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 225500
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27800,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 225500
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27800,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 231200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 237100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 237100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27800,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 237100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27800,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 242800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 168600,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 168600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 174100,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 174100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 174100,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 174100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 174100,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 174100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 179600,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 179600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 179600,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 179600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 185300,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 185300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 196900,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 196900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 196900,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 196900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 196900,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 196900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 196900,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 196900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 196900,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 196900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 202600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 202600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 202600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 202600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 202600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 202600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 202666,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 202666
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 180100,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 208200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 158900,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 208200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 139600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 208200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 126000,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 208200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 22,
+   "ExpectedRevenue": 95500,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 208200
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 20,
+   "ExpectedRevenue": 86800,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 213900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 15,
+   "ExpectedRevenue": 65100,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 13,
+   "ExpectedRevenue": 47700,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 11,
+   "ExpectedRevenue": 29300,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 219600
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 6,
+   "ExpectedRevenue": 15900,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 225300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 5,
+   "ExpectedRevenue": 13200,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 231000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 3,
+   "ExpectedRevenue": 10500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 231000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 3500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 236900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 3500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 236900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 3500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 236900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 159300,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 159300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 164000,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 164000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 164000,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 164000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 164000,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 164000
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 168700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 168700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 168700,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 168700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 168700,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 168700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 173400,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 173400
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 173400,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 173400
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 173400,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 173400
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 173400,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 173400
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 182800,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 182800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 187700,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 187700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 187700,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 187700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 187700,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 187700
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 192516,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 192516
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 173200,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 192500
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 159500,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 197100
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 155100,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 201900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 146200,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 201900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 27,
+   "ExpectedRevenue": 117900,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 201900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 22,
+   "ExpectedRevenue": 96000,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 201900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 17,
+   "ExpectedRevenue": 74100,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 13,
+   "ExpectedRevenue": 52300,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 40200,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 3,
+   "ExpectedRevenue": 17800,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 210800
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 5900,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 215300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 5900,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 215300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 5900,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 215300
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 5900,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 219900
+ },
+ {
+   "Region": "Midwest",
+   "Industry": "Energy",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 5900,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 224500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 185600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 185600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 190800,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 190800
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 190800,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 190800
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 196100,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 196100,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 196100,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 196129,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 196129
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 175400,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 170300,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 201200
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 154800,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 201200
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 28,
+   "ExpectedRevenue": 138700,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 201200
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 21,
+   "ExpectedRevenue": 108900,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 201200
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 18,
+   "ExpectedRevenue": 93300,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 201200
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 13,
+   "ExpectedRevenue": 67300,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 201200
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 41400,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 6,
+   "ExpectedRevenue": 31000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 31000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 31000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 211800
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 31000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 211800
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 31000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 211800
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 31000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 211800
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 31000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 211800
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 170100,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 170100
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 170100,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 170100
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 175800,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 175800
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 175800,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 175800
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 181700,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 181700
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 181700,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 181700
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 181700,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 181700
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 181700,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 181700
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 187400,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 187400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 187400,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 187400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 187400,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 187400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 187400,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 187400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 193000,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 193000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 193000,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 193000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 193000,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 193000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 198550,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 198550
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 176400,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 204000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 156200,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 204000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 146700,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 204000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 25,
+   "ExpectedRevenue": 136500,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 204000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 17,
+   "ExpectedRevenue": 114600,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 204000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 12,
+   "ExpectedRevenue": 87600,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 204000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 73000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 204000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 6,
+   "ExpectedRevenue": 40500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 209300
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 4,
+   "ExpectedRevenue": 27000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 214600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 219900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 219900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 219900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 219900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 225300
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 27000,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 225300
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 174600,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 174600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 174600,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 174600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 174600,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 174600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 174600,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 174600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 174600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 174600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 174600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 174600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 179000,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 179000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 179000,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 179000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 179000,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 179000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 179000,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 179000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 183500,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 183500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 183500,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 183500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 183500,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 183500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 183500,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 183500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 183500,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 183500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 187945,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 187945
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 174800,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 192300
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 157300,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 192300
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 149000,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 196700
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 144600,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 196700
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 26,
+   "ExpectedRevenue": 121200,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 201100
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 22,
+   "ExpectedRevenue": 111800,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 210000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 19,
+   "ExpectedRevenue": 96500,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 210000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 17,
+   "ExpectedRevenue": 81200,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 214600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 15,
+   "ExpectedRevenue": 62000,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 214600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 12,
+   "ExpectedRevenue": 41300,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 223900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 27500,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 228600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 7,
+   "ExpectedRevenue": 18300,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 228600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 3,
+   "ExpectedRevenue": 13000,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 228600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 2,
+   "ExpectedRevenue": 4300,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 228600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 4300,
+   "ProjectedWins": 49,
+   "ProjectedRevenue": 228600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 158900,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 158900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 158900,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 158900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 158900,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 158900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 163900,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 163900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 163900,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 163900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 163900,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 163900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 168900,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 168900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 173900,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 173900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 173900,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 173900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 184500,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 184500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 184500,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 184500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 190000,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 190000
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 195600,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 195600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 195600,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 195600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 195600,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 195600
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 201062,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 201062
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 195600,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 189600,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 27,
+   "ExpectedRevenue": 183000,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 25,
+   "ExpectedRevenue": 162600,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 206400
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 19,
+   "ExpectedRevenue": 130000,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 217500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 15,
+   "ExpectedRevenue": 102600,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 217500
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 10,
+   "ExpectedRevenue": 82000,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 223300
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 6,
+   "ExpectedRevenue": 41000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 223300
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6800,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 223300
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6800,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 223300
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6800,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 229100
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6800,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 234900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 234900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 234900
+ },
+ {
+   "Region": "South",
+   "Industry": "Professional Services",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6800,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 234900
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 159800,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 159800
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 164800,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 164800
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 164800,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 164800
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 164800,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 164800
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 170000,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 170000
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 170000,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 170000
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 175000,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 175000
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 175000,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 175000
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 180000,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 180000
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 185200,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 185200
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 185200,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 185200
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 196100,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 196100,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 196100,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 196100,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 196141,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 196141
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 190600,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 179700,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 157900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 25,
+   "ExpectedRevenue": 136100,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 201400
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 20,
+   "ExpectedRevenue": 103400,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 212200
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 15,
+   "ExpectedRevenue": 93000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 217700
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 11,
+   "ExpectedRevenue": 68200,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 223100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 43400,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 223100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 4,
+   "ExpectedRevenue": 24100,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 223100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 24100,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 223100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 24100,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 223100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 24100,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 223100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 24100,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 223100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 24100,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 223100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 24100,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 223100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 167100,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 167100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 167100,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 167100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 167100,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 167100
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 172500,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 172500
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 33,
+   "ExpectedRevenue": 172500,
+   "ProjectedWins": 33,
+   "ProjectedRevenue": 172500
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 172500,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 172500
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 177600,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 177600
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 177600,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 177600
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 177600,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 177600
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 182900,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 182900
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 182900,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 182900
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 188000,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 188000
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 188000,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 188000
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 193300,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 193300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 193300,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 193300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 193316,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 193316
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 172900,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 193300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 168200,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 193300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 153700,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 193300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 139200,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 198300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 23,
+   "ExpectedRevenue": 110400,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 198300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 21,
+   "ExpectedRevenue": 86400,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 198300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 16,
+   "ExpectedRevenue": 69900,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 203300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 12,
+   "ExpectedRevenue": 48000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 203300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 40000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 203300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 3,
+   "ExpectedRevenue": 4400,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 203300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 1400,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 203300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 1400,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 208300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 1400,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 208300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 1400,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 208300
+ },
+ {
+   "Region": "South",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 1400,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 208300
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 169000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 169000
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 173500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 173500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 173500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 173500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 173500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 173500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 173500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 173500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 173500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 173500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 178000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 178000
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 182600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 182600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 182600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 182600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 182600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 182600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 187200,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 187200
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 187200,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 187200
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 187200,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 187200
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 191800,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 191800
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 191800,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 191800
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 191825,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 191825
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 173900,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 191800
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 156900,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 191800
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 144800,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 191800
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 136500,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 191800
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 108300,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 196100
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 26,
+   "ExpectedRevenue": 101000,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 204600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 21,
+   "ExpectedRevenue": 93200,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 204600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 19,
+   "ExpectedRevenue": 75400,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 204600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 16,
+   "ExpectedRevenue": 63400,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 208900
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 9,
+   "ExpectedRevenue": 39600,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 213300
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 22000,
+   "ProjectedWins": 47,
+   "ProjectedRevenue": 217800
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 7,
+   "ExpectedRevenue": 11000,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 222400
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 5,
+   "ExpectedRevenue": 7800,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 222400
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 3,
+   "ExpectedRevenue": 6200,
+   "ProjectedWins": 48,
+   "ProjectedRevenue": 222400
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 6200,
+   "ProjectedWins": 50,
+   "ProjectedRevenue": 222400
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 233900,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 233900
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 233900,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 233900
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 233900,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 233900
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 228500,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 228500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 228500,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 228500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 228500,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 228500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 223000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 223000
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 217500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 217500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 212000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 212000
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 212000,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 212000
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 206500,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 206500
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 201100,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 201100
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 195900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 195900
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 190700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 190700
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 190700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 190700
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 190733,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 190733
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 185200,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 190700
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 174300,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 190700
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 27,
+   "ExpectedRevenue": 168600,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 190700
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 24,
+   "ExpectedRevenue": 162300,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 190700
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 19,
+   "ExpectedRevenue": 128400,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 185200
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 17,
+   "ExpectedRevenue": 94600,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 185200
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 15,
+   "ExpectedRevenue": 72300,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 173600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 11,
+   "ExpectedRevenue": 48200,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 168100
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 6,
+   "ExpectedRevenue": 39400,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 162600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 39400,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 162600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 39400,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 162600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 39400,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 162600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 39400,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 162600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 39400,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 162600
+ },
+ {
+   "Region": "West",
+   "Industry": "Education",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 39400,
+   "ProjectedWins": 30,
+   "ProjectedRevenue": 162600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 213400,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 213400
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 213400,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 213400
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 213400,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 213400
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 208100,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 208100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 208100,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 208100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 208100,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 208100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 202900,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 202900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 202900,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 202900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 197900,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 197900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 197900,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 197900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 197900,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 197900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 193000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 193000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 193000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 193000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 193000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 193000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 188100,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 188100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 188137,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 188137
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 168300,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 188100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 148500,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 188100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 28,
+   "ExpectedRevenue": 128700,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 183100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 25,
+   "ExpectedRevenue": 119500,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 183100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 19,
+   "ExpectedRevenue": 100300,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 183100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 17,
+   "ExpectedRevenue": 89700,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 183100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 15,
+   "ExpectedRevenue": 63300,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 178200
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 10,
+   "ExpectedRevenue": 42200,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 178200
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 25300,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 173300
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 2,
+   "ExpectedRevenue": 15800,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 173300
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 168600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 168600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 168600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 168600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7900,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 168600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 188700,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 188700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 188700,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 188700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 188700,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 188700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 188700,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 188700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 188700,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 188700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 188700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 188700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 188700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 188700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 194000,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 194000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 194000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 194000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 194000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 194000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 194000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 194000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 39,
+   "ExpectedRevenue": 194033,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 194033
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 36,
+   "ExpectedRevenue": 189000,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 178500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 167300,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 29,
+   "ExpectedRevenue": 156100,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 198900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 23,
+   "ExpectedRevenue": 134500,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 198900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 20,
+   "ExpectedRevenue": 111100,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 198900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 16,
+   "ExpectedRevenue": 88800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 198900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 13,
+   "ExpectedRevenue": 66600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 198900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 40900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 198900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 2,
+   "ExpectedRevenue": 15300,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 198900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 198900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 198900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7600,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 203700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7600,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 203700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 7600,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 203700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 180000,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 180000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 186000,
+   "ProjectedWins": 31,
+   "ProjectedRevenue": 186000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 186000,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 186000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 186000,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 186000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 186000,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 186000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 186000,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 186000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 192100,
+   "ProjectedWins": 32,
+   "ProjectedRevenue": 192100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 192100,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 192100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 192100,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 192100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 197800,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 197800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 197800,
+   "ProjectedWins": 35,
+   "ProjectedRevenue": 197800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 37,
+   "ExpectedRevenue": 197800,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 197800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 197800,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 197800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 197800,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 197800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 197800,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 197800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 197800,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 197800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 35,
+   "ExpectedRevenue": 182100,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 197800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 161200,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 203000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 32,
+   "ExpectedRevenue": 156400,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 203000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 31,
+   "ExpectedRevenue": 141700,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 203000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 25,
+   "ExpectedRevenue": 118800,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 203000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 21,
+   "ExpectedRevenue": 95000,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 203000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 16,
+   "ExpectedRevenue": 76900,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 13,
+   "ExpectedRevenue": 57600,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 8,
+   "ExpectedRevenue": 39800,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 2,
+   "ExpectedRevenue": 39800,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 19900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 19900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 19900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 19900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 19900,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 208000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 3,
+   "NoofOpportunities": 46,
+   "ExpectedRevenue": 218000,
+   "ProjectedWins": 46,
+   "ProjectedRevenue": 218000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 2,
+   "NoofOpportunities": 45,
+   "ExpectedRevenue": 218000,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 218000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 1,
+   "NoofOpportunities": 45,
+   "ExpectedRevenue": 218000,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 218000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2020,
+   "Month": 0,
+   "NoofOpportunities": 45,
+   "ExpectedRevenue": 213300,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 213300
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 45,
+   "ExpectedRevenue": 208700,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 208700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 45,
+   "ExpectedRevenue": 208700,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 208700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 45,
+   "ExpectedRevenue": 208700,
+   "ProjectedWins": 45,
+   "ProjectedRevenue": 208700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 208700,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 208700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 44,
+   "ExpectedRevenue": 208700,
+   "ProjectedWins": 44,
+   "ProjectedRevenue": 208700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 43,
+   "ExpectedRevenue": 208700,
+   "ProjectedWins": 43,
+   "ProjectedRevenue": 208700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 208700,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 208700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 208700,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 208700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 208700,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 208700
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 203900,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 203900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 42,
+   "ExpectedRevenue": 203900,
+   "ProjectedWins": 42,
+   "ProjectedRevenue": 203900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 0,
+   "NoofOpportunities": 41,
+   "ExpectedRevenue": 199083,
+   "ProjectedWins": 41,
+   "ProjectedRevenue": 199083
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 1,
+   "NoofOpportunities": 40,
+   "ExpectedRevenue": 194200,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 199000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 2,
+   "NoofOpportunities": 38,
+   "ExpectedRevenue": 184400,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 194000
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 3,
+   "NoofOpportunities": 34,
+   "ExpectedRevenue": 179500,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 189100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 4,
+   "NoofOpportunities": 30,
+   "ExpectedRevenue": 168900,
+   "ProjectedWins": 40,
+   "ProjectedRevenue": 189100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 5,
+   "NoofOpportunities": 22,
+   "ExpectedRevenue": 146300,
+   "ProjectedWins": 39,
+   "ProjectedRevenue": 179600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 6,
+   "NoofOpportunities": 19,
+   "ExpectedRevenue": 133000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 179600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 7,
+   "NoofOpportunities": 16,
+   "ExpectedRevenue": 119000,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 179600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 8,
+   "NoofOpportunities": 12,
+   "ExpectedRevenue": 89200,
+   "ProjectedWins": 38,
+   "ProjectedRevenue": 179600
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 9,
+   "NoofOpportunities": 10,
+   "ExpectedRevenue": 59400,
+   "ProjectedWins": 37,
+   "ProjectedRevenue": 174800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 10,
+   "NoofOpportunities": 4,
+   "ExpectedRevenue": 29700,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 174800
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2021,
+   "Month": 11,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 14800,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 169900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 0,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 14800,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 169900
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 1,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 14800,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 165100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 2,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 14800,
+   "ProjectedWins": 36,
+   "ProjectedRevenue": 165100
+ },
+ {
+   "Region": "West",
+   "Industry": "Transportation",
+   "Year": 2022,
+   "Month": 3,
+   "NoofOpportunities": 1,
+   "ExpectedRevenue": 14800,
+   "ProjectedWins": 34,
+   "ProjectedRevenue": 160500
+ }
+]
